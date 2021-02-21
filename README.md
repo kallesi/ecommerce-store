@@ -11,11 +11,11 @@ Just a little personal project of mine
 * Administrator privileges
 
 ## Installation:
-Change directory to project folder
+1. Change directory to project folder
 `cd ecommerce-store`
-Activate the virtual environment
+2. Activate the virtual environment
 `.\Sources\activate`
-Change directory to source code folder
+3. Change directory to source code folder
 `cd src`
-Activate the server by running 
+4. Activate the server by running 
 `python manage.py runserver`
