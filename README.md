@@ -2,9 +2,12 @@
 
 Just a little personal project of mine
 
-![image](https://user-images.githubusercontent.com/6499777/108641069-fb54da00-74a5-11eb-9d46-2cc2ea207681.png)
-![image](https://user-images.githubusercontent.com/6499777/108641101-23443d80-74a6-11eb-902d-22b5bf787fe3.png)
-![image](https://user-images.githubusercontent.com/6499777/108641105-2d663c00-74a6-11eb-966a-a3bb52bc576d.png)
+## Some Screenshots 
+![image](https://user-images.githubusercontent.com/6499777/108703809-ced7a700-7513-11eb-9ccc-e205650f30e7.png)
+![image](https://user-images.githubusercontent.com/6499777/108703834-d8610f00-7513-11eb-9a0d-f08e44b7aa7e.png)
+![image](https://user-images.githubusercontent.com/6499777/108703883-e7e05800-7513-11eb-8c1c-2df7daac31de.png)
+![image](https://user-images.githubusercontent.com/6499777/108703927-f595dd80-7513-11eb-9f20-6b43188bbb9a.png)
+
 
 ## System Requirements:
 * Python 3 installed
